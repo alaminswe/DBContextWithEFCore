@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DbOperationsWithEFCoreApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57d5b5a74220d4bac4565fda063a4e5a4bfb33c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bea310c15087dd6f41ec87bd5c9ff2df448d9a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("DbOperationsWithEFCoreApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DbOperationsWithEFCoreApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
